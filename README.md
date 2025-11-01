@@ -10,3 +10,6 @@ As readed again, intended for "ui panels", and free interface. Not for hacks, ch
 
 # By
 Customly made by jslua, on Discord, and jsvibing_fr2 on Roblox. Can contact me via leadership@cuybly.xyz via email.
+
+# Agreement upon use
+When using, we are not liable for any bans, warns, etc from Roblox. This may be due to editting the module, use editted modules by other users, etc. When first used, it is not breaking Roblox's Terms of Service as of 2025.
